@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.cart-summary-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.total-sum {
+  color: #616e7c;
+}
+.cart-item-in-summary {
+  color: #616e7c;
+  font-weight: 600;
+}
+.checkout-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: 0px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 320px;
+  margin-bottom: 20px;
+}
